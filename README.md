@@ -6,6 +6,12 @@ A basic to-do list application developed using HTML, CSS, and JavaScript, allowi
 
 This project provides a simple and intuitive interface for users to keep track of their tasks. Users can add new tasks, view existing ones, and manage their to-do list effectively.
 
+![Screenshot from 2025-02-18 20-10-59](https://github.com/user-attachments/assets/bd7ee712-5f9c-420e-bf7a-92a083a2e583)
+
+![Screenshot from 2025-02-18 20-11-36](https://github.com/user-attachments/assets/750a0ca9-a892-4451-b3b5-51cd5a984866)
+
+
+
 ## Features
 
 - **Add Tasks**: Users can input new tasks to be added to their to-do list.
